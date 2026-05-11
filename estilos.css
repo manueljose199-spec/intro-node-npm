@@ -1,0 +1,48 @@
+body{
+
+  margin: 0;
+
+  font-family: Arial;
+
+  background: #081225;
+
+  color: white;
+
+  display: flex;
+
+  justify-content: center;
+
+  align-items: center;
+
+  height: 100vh;
+}
+
+.contenedor{
+
+  background: #14213d;
+
+  padding: 30px;
+
+  border-radius: 10px;
+
+  width: 400px;
+}
+
+h1{
+
+  text-align: center;
+}
+
+ul{
+
+  padding-left: 20px;
+}
+
+code{
+
+  background: black;
+
+  padding: 5px;
+
+  border-radius: 5px;
+}
